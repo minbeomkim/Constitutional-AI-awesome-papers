@@ -1,6 +1,6 @@
 # Constitutional-AI-awesome-papers
 ![](https://img.shields.io/github/last-commit/Timothyxxx/Chain-of-ThoughtsPapers?color=green) 
-Paper lists about 'Constitutional AI System' or 'AI under Ethical Guidelines'. This GitHub repository is intended for personal study and research and under consistent development. I hope for everyone's active related-works recommendations.
+Paper lists about 'Constitutional AI System' or 'AI under Ethical Guidelines'. This GitHub repository is intended for personal study, and under consistent update. I hope for everyone's active related-works recommendations.
 
 ## Paper
 
