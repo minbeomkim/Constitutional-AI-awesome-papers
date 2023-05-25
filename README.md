@@ -10,5 +10,5 @@ Paper lists about 'Constitutional AI System' or 'AI under Ethical Guidelines'. T
 
 2. **Second Thoughts are Best: Learning to Re-Align With Human Values from Text Edits**
 
-   *Ruibo Liu, Chenyan Jia, Ge Zhang, Ziyu Zhuang, Tony X. Liu, Soroush Vosoughi*, [[pdf](https://proceedings.neurips.cc/paper_files/paper/2022/file/01c4593d60a020fed5607944330106b1-Paper-Conference.pdf)] NeurIPS 2022
+   *Ruibo Liu, Chenyan Jia, Ge Zhang, Ziyu Zhuang, Tony X. Liu, Soroush Vosoughi* [[pdf](https://proceedings.neurips.cc/paper_files/paper/2022/file/01c4593d60a020fed5607944330106b1-Paper-Conference.pdf)] NeurIPS 2022
 
