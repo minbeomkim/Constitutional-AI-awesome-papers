@@ -14,7 +14,7 @@ Paper lists about 'Constitutional AI System' or 'AI under Ethical Guidelines'. T
    
 3. **Moral Stories: Situated Reasoning about Norms, Intents, Actions, and their Consequences**
 
-   *Denis Emelin, Ronan Le Bras, Jena D. Hwang, Maxwell Forbes, Yejin Choi [[Link](https://aclanthology.org/2021.emnlp-main.54/)] EMNLP 2022*
+   *Denis Emelin, Ronan Le Bras, Jena D. Hwang, Maxwell Forbes, Yejin Choi* [[Link](https://aclanthology.org/2021.emnlp-main.54/)] EMNLP 2022
 
 4. **Second Thoughts are Best: Learning to Re-Align With Human Values from Text Edits**
 
