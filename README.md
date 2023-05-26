@@ -4,6 +4,10 @@ Paper lists about 'Constitutional AI System' or 'AI under Ethical Guidelines'. T
 
 ## Paper
 
+1. **Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned**
+
+   *Anthropic* [[Link](https://arxiv.org/abs/2209.07858)] arxiv Nov.2022
+
 1. **Constitutional AI: Harmlessness from AI Feedback**
 
    *Anthropic* [[Link](https://arxiv.org/abs/2212.08073)] arxiv Dec.2022
