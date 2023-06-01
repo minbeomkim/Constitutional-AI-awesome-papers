@@ -24,5 +24,8 @@ Paper lists about 'Constitutional AI System' or 'AI under Ethical Guidelines'. T
 
    *Anthropic* [[Link](https://arxiv.org/abs/2302.07459)] arxiv Feb.2023
 
+6. **Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**
+
+   *Zhiqing Sun1, Yikang Shen, Qinhong Zhou, Hongxin Zhang, Zhenfang Chen, David Cox, Yiming Yang, Chuang Gan* [[Link](https://arxiv.org/abs/2305.03047)] arxiv May.2023
 
 
