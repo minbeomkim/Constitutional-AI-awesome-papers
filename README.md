@@ -28,4 +28,12 @@ Paper lists about 'Constitutional AI System' or 'AI under Ethical Guidelines'. T
 
    *Zhiqing Sun1, Yikang Shen, Qinhong Zhou, Hongxin Zhang, Zhenfang Chen, David Cox, Yiming Yang, Chuang Gan* [[Link](https://arxiv.org/abs/2305.03047)] arxiv May.2023
 
+7. **Prometheus: Inducing Fine-grained Evaluation Capability in Language Models**
+
+   *Seungone Kim, Jamin Shin, Yejin Cho, Joel Jang, Shayne Longpre, Hwaran Lee, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo* [[Link](https://arxiv.org/abs/2310.08491)] arxiv Oct.2023
+
+8. **Generating Summaries with Controllable Readability Levels**
+   
+   *Leonardo F. R. Ribeiro, Mohit Bansal, Markus Dreyer* [[Link](https://arxiv.org/pdf/2310.10623.pdf)] arxiv Oct.2023
+
 
