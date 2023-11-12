@@ -36,4 +36,8 @@ Paper lists about 'Constitutional AI System' or 'AI under Ethical Guidelines'. T
    
    *Leonardo F. R. Ribeiro, Mohit Bansal, Markus Dreyer* [[Link](https://arxiv.org/pdf/2310.10623.pdf)] arxiv Oct.2023
 
+9. **Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging**
+   
+   *Joel Jang, Seungone Kim, Bill Yuchen Lin, Yizhong Wang, Jack Hessel, Luke Zettlemoyer, Hannaneh Hajishirzi, Yejin Choi, Prithviraj Ammanabrolu* [[Link](https://arxiv.org/abs/2310.11564.pdf)] arxiv Oct.2023
+
 
