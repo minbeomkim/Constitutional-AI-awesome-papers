@@ -40,4 +40,16 @@ Paper lists about 'Constitutional AI System' or 'AI under Ethical Guidelines'. T
    
    *Joel Jang, Seungone Kim, Bill Yuchen Lin, Yizhong Wang, Jack Hessel, Luke Zettlemoyer, Hannaneh Hajishirzi, Yejin Choi, Prithviraj Ammanabrolu* [[Link](https://arxiv.org/abs/2310.11564.pdf)] arxiv Oct.2023
 
+10. **Collective Constitutional AI: Aligning a Language Model with Public Input**
+
+   *Anthropic* [[Link]([https://arxiv.org/abs/2212.08073](https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input)https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input)] arxiv Oct.2023
+
+11. **Specific versus General Principles for Constitutional AI**
+
+   *Anthropic* [[Link](https://arxiv.org/abs/2310.13798)] arxiv Oct.2023
+
+
+
+
+
 
